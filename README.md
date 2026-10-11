@@ -34,7 +34,7 @@ QR-GENERATOR/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/SANTHOSH0530/QR-Code-Generator.git
 ```
 
 ### 2️⃣ Open the Project
